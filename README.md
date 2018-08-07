@@ -20,4 +20,13 @@ SJF：（choose）
 
 则输出运行，否则则 输出不运行。从而显示每时刻进程运行状况。
 
-### 以上算法均由数组实现
+#### 以上算法均由数组实现
+
+### 运行效果截图
+-FCTS
+
+![Image](https://github.com/tomridder/FCFS___SJF/blob/master/%E5%9B%BE%E7%89%871.png)
+
+-SJF
+![Image](https://github.com/tomridder/FCFS___SJF/blob/master/%E5%9B%BE%E7%89%872.png)
+
