@@ -2,7 +2,7 @@
 先来先服务FCFS和短作业优先SJF进程调度算法
 ### 实现算法
 
-FCTS：（choose1）
+FCS：（choose1）
 
 1.根据给出的ARRIveTime 和ServiceTime 分别算出i所对应的Finishtime，WeighTime，WholeTime.Starttime 并将各项打印出来.
 
